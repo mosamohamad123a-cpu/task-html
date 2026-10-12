@@ -1,0 +1,73 @@
+
+.A{background-image: url("https://img.freepik.com/free-vector/technology-wire-mesh-network-connection-digital-background_1017-28407.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+.q{
+    margin-right: 25px
+}
+.w{ 
+    background-color: rgb(31, 207, 78);
+    border-style: solid;
+border-color: rgb(0, 0, 0);
+border-radius: 10px;
+display:inline-block;
+margin-left: 500px;
+
+}
+.e{ 
+   color: rgb(255, 255, 255);
+text-align: center;
+}
+.z{
+   
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+     color:red
+     
+  
+}
+img{
+    float: right;
+}
+.f{
+    background-color: rgb(192, 192, 199);
+}
+.r{
+    background-color: rgb(213, 213, 223);
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border-width: 10px;
+}
+.x{width: 400px;
+    height: 400px;
+    background-color: aqua;
+
+}
+.y{background-color: red;
+    width: 200px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    }
+.l{
+    text-align: center;
+    background-color: aquamarine;
+    height: 200px;
+    width: 200px;
+    border-color: black ;
+    border-radius: 20px ;
+    border-style: solid;
+  margin-left: 600px;
+}
+.m{background-color: bisque;
+
+}
