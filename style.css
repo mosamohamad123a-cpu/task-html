@@ -33,8 +33,28 @@ text-align: center;
 img{
     float: right;
 }
-.f{
-    background-color: rgb(192, 192, 199);
+.developer-card {
+    max-width: 500px;
+    padding: 30px;
+    background: #0c1118;
+    border: 1px solid #374151;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+}
+
+.developer-card h3 {
+    color: #38bdf8;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+
+.developer-card p {
+    color: #d1d5db;
+    font-size: 16px;
+    line-height: 1.8;
+    margin: 0;
 }
 .r{
     background-color: rgb(213, 213, 223);
@@ -70,4 +90,44 @@ img{
 }
 .m{background-color: bisque;
 
+}
+
+.u{ color: rgb(255, 255, 255);
+  
+
+}
+
+      img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 50%;
+        position: absolute;
+        bottom: 60%;
+        left: 85%;
+       } 
+      .about-box {
+  max-width: 700px;
+  padding: 25px 30px;
+  margin: 20px auto;
+
+  background-color: #1e293b;
+  color: #f1f5f9;
+
+  border: 1px solid #334155;
+  border-left: 4px solid #38bdf8;
+  border-radius: 12px;
+
+  font-size: 16px;
+  line-height: 1.8;
+
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+}
+body.dark-mode {
+    background-color: #121212;
+    color: white;
+}
+
+body.light-mode {
+    background-color: white;
+    color: black;
 }
